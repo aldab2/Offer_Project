@@ -1,0 +1,4 @@
+#Wed Dec 12 08:25:59 AST 2018
+base.0=C\:\\Users\\hassa\\Desktop\\ics324\\OffersProject\\Offers\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

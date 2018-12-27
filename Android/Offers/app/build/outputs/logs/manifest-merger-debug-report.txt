@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fcba29bc509bab5e4eb62d189ce16b5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91f4eb3a55b8950833137d6c5fcfb6a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c48515ef4b64b6789f2828cfe4c335f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64ecbb597d38a5b81b49c02b318ca83e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e17e1b20be17976690649e5c603a52e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b81d20d7c47d0b5b151d1db331c82085\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c9502de1601c8846d5cf0404e1d7140\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546d99ac468515bdb318ff2b8278c8f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba506037f0171cfb897f5a6d011c614e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7db1757af0d246fcdedf5e2082ba19cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4413b8044e7ecbcff69331d774ae1d99\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38463bb4648a57c390b18e1c0804aa59\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5a10662f37dbd3889791d6c41a25d5ec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91e258c1c2cb699037d9c1393c00b18d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\113e4c2138bee3e530ac2d3e7ca9493c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f2ce079c392d9b3c1c01694428ad586\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18b69e87f3928239763fb0e1ca18038\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:10:5-42:15
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c48515ef4b64b6789f2828cfe4c335f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c48515ef4b64b6789f2828cfe4c335f\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:14:9-59
+	android:icon
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.android.offers.LoginActivity
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:18:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.android.offers.OldUserPage
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:27:9-30:58
+	android:parentActivityName
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:30:13-56
+	android:label
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:28:13-40
+activity#com.example.android.offers.AdminPage
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:parentActivityName
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:35:13-56
+	android:label
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:34:13-35
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:33:13-38
+activity#com.example.android.offers.UserPage
+ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:37:5-40:54
+	android:parentActivityName
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:40:9-52
+	android:label
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:39:9-31
+	android:name
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml:38:9-33
+uses-sdk
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fcba29bc509bab5e4eb62d189ce16b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fcba29bc509bab5e4eb62d189ce16b5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91f4eb3a55b8950833137d6c5fcfb6a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\91f4eb3a55b8950833137d6c5fcfb6a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c48515ef4b64b6789f2828cfe4c335f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5c48515ef4b64b6789f2828cfe4c335f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64ecbb597d38a5b81b49c02b318ca83e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\64ecbb597d38a5b81b49c02b318ca83e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e17e1b20be17976690649e5c603a52e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\e17e1b20be17976690649e5c603a52e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b81d20d7c47d0b5b151d1db331c82085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b81d20d7c47d0b5b151d1db331c82085\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c9502de1601c8846d5cf0404e1d7140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\4c9502de1601c8846d5cf0404e1d7140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546d99ac468515bdb318ff2b8278c8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\546d99ac468515bdb318ff2b8278c8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba506037f0171cfb897f5a6d011c614e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ba506037f0171cfb897f5a6d011c614e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7db1757af0d246fcdedf5e2082ba19cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7db1757af0d246fcdedf5e2082ba19cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4413b8044e7ecbcff69331d774ae1d99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\4413b8044e7ecbcff69331d774ae1d99\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38463bb4648a57c390b18e1c0804aa59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\38463bb4648a57c390b18e1c0804aa59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5a10662f37dbd3889791d6c41a25d5ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5a10662f37dbd3889791d6c41a25d5ec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91e258c1c2cb699037d9c1393c00b18d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\91e258c1c2cb699037d9c1393c00b18d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\113e4c2138bee3e530ac2d3e7ca9493c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\113e4c2138bee3e530ac2d3e7ca9493c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f2ce079c392d9b3c1c01694428ad586\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3f2ce079c392d9b3c1c01694428ad586\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18b69e87f3928239763fb0e1ca18038\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hassa\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a18b69e87f3928239763fb0e1ca18038\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hassa\Desktop\ics324\OffersProject\Offers\app\src\main\AndroidManifest.xml
